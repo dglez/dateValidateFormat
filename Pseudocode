@@ -1,0 +1,17 @@
+Pseudo Code:
+
+ReadDate
+-----------------------------------------------------------------------
+      //Get a line of data.
+      //Validate the line.
+        //Print data with correct format.
+        //Write out the formatted data.
+        //If error enabled then write the error.
+      //Write out the original data.
+
+
+Format
+-----------------------------------------------------------------------
+      //Get a line of data.
+      //Print data with correct format.
+      //Print original data.
